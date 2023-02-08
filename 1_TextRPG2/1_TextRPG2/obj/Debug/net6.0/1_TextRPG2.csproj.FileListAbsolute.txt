@@ -1,0 +1,15 @@
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\bin\Debug\net6.0\1_TextRPG2.exe
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\bin\Debug\net6.0\1_TextRPG2.deps.json
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\bin\Debug\net6.0\1_TextRPG2.runtimeconfig.json
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\bin\Debug\net6.0\1_TextRPG2.dll
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\bin\Debug\net6.0\1_TextRPG2.pdb
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.csproj.AssemblyReference.cache
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.AssemblyInfoInputs.cache
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.AssemblyInfo.cs
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.csproj.CoreCompileInputs.cache
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.dll
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\refint\1_TextRPG2.dll
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.pdb
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\1_TextRPG2.genruntimeconfig.cache
+C:\2023_STUDY\1_TextRPG2\1_TextRPG2\obj\Debug\net6.0\ref\1_TextRPG2.dll
